@@ -40,3 +40,19 @@
   align-items: center;
 }
 
+.container-pagamenti {
+  background-color: black;
+}
+
+.container-pagamenti h1 {
+  color: white;
+}
+
+.container-pagamenti .red {
+  color: red;
+}
+
+.container-pagamenti .green {
+  color: green;
+}
+
